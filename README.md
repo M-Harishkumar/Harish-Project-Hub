@@ -35,7 +35,7 @@ Here you’ll find all my key works in **AI, Data Science, Automation, and Devel
 ---
 
 ### 🗂 Additional Project Resources
-- **[My Notion Project List](https://www.notion.so/My-Projects-List-23cef33703fa802ab351d7849b2ae71c)**  
+- **[My Notion Project List](https://www.notion.so/My-Projects-List-23cef33703fa802ab351d7849b2ae71c?source=copy_link)**  
   A complete index of all my ongoing and completed works.
 
 ---
